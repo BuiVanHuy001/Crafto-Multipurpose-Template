@@ -1,0 +1,50 @@
+﻿/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * korolev-condensed:
+ *   - http://typekit.com/eulas/00000000000000007735e8b8
+ *   - http://typekit.com/eulas/00000000000000007735e8c6
+ *   - http://typekit.com/eulas/00000000000000007735e8c4
+ *   - http://typekit.com/eulas/00000000000000007735e8c0
+ *   - http://typekit.com/eulas/00000000000000007735e8bd
+ *
+ * © 2009-2024 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2022-02-10 09:30:33 UTC"}*/
+
+@import url("p.css");
+
+@font-face {
+font-family:"korolev-condensed";
+src:url("af/4b0622/00000000000000007735e8b8/30/l") format("woff2"),url("af/4b0622/00000000000000007735e8b8/30/d") format("woff"),url("af/4b0622/00000000000000007735e8b8/30/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:900;font-stretch:normal;
+}
+
+@font-face {
+font-family:"korolev-condensed";
+src:url("af/849a65/00000000000000007735e8c6/30/l") format("woff2"),url("af/849a65/00000000000000007735e8c6/30/d") format("woff"),url("af/849a65/00000000000000007735e8c6/30/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:200;font-stretch:normal;
+}
+
+@font-face {
+font-family:"korolev-condensed";
+src:url("af/364087/00000000000000007735e8c4/30/l") format("woff2"),url("af/364087/00000000000000007735e8c4/30/d") format("woff"),url("af/364087/00000000000000007735e8c4/30/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"korolev-condensed";
+src:url("af/7a03c9/00000000000000007735e8c0/30/l") format("woff2"),url("af/7a03c9/00000000000000007735e8c0/30/d") format("woff"),url("af/7a03c9/00000000000000007735e8c0/30/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:300;font-stretch:normal;
+}
+
+@font-face {
+font-family:"korolev-condensed";
+src:url("af/c12da3/00000000000000007735e8bd/30/l") format("woff2"),url("af/c12da3/00000000000000007735e8bd/30/d") format("woff"),url("af/c12da3/00000000000000007735e8bd/30/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:500;font-stretch:normal;
+}
+
+.tk-korolev-condensed { font-family: "korolev-condensed",sans-serif; }
